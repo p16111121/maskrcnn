@@ -1,3 +1,4 @@
+#放在要進行分類之資料夾底下執行
 import os
 import os.path as osp
 from shutil import copyfile,copytree,rmtree
